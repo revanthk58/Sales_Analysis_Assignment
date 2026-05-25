@@ -15,7 +15,7 @@ The dashboard helps businesses understand:
 
 # Dashboard Preview
 
-![Dashboard Preview](https://github.com/yourusername/yourrepo/blob/main/Dashboard_pic.png)
+![Dashboard Preview](https://github.com/revanthk58/Sales_Analysis_Assignment/blob/main/Screenshots/Screenshot%202026-05-25%20153933.png)
 
 ---
 
@@ -45,11 +45,6 @@ The dashboard helps businesses understand:
 - Profit margin indicates stable profitability.
 - Order volume remained consistent throughout the year.
 
-### Visualization Used:
-- KPI Cards
-
-![KPI Cards](https://github.com/yourusername/yourrepo/blob/main/Screenshots/kpi_cards.png)
-
 ---
 
 ## 2. Sum of Sales by Month
@@ -62,7 +57,7 @@ The dashboard helps businesses understand:
 ### Visualization Used:
 - Line Chart
 
-![Sales Trend](https://github.com/yourusername/yourrepo/blob/main/Screenshots/monthly_sales.png)
+![Sales Trend](https://github.com/revanthk58/Sales_Analysis_Assignment/blob/main/Screenshots/Screenshot%202026-05-25%20154025.png)
 
 ---
 
@@ -76,7 +71,7 @@ The dashboard helps businesses understand:
 ### Visualization Used:
 - Area Chart
 
-![Profit Trend](https://github.com/yourusername/yourrepo/blob/main/Screenshots/monthly_profit.png)
+![Profit Trend](https://github.com/revanthk58/Sales_Analysis_Assignment/blob/main/Screenshots/Screenshot%202026-05-25%20154115.png)
 
 ---
 
@@ -90,7 +85,7 @@ The dashboard helps businesses understand:
 ### Visualization Used:
 - Donut Chart
 
-![Category Analysis](https://github.com/yourusername/yourrepo/blob/main/Screenshots/category_sales.png)
+![Category Analysis](https://github.com/revanthk58/Sales_Analysis_Assignment/blob/main/Screenshots/Screenshot%202026-05-25%20154155.png)
 
 ---
 
@@ -104,7 +99,7 @@ The dashboard helps businesses understand:
 ### Visualization Used:
 - Clustered Bar Chart
 
-![Regional Profit](https://github.com/yourusername/yourrepo/blob/main/Screenshots/profit_region.png)
+![Regional Profit](https://github.com/revanthk58/Sales_Analysis_Assignment/blob/main/Screenshots/Screenshot%202026-05-25%20154211.png)
 
 ---
 
@@ -118,7 +113,7 @@ The dashboard helps businesses understand:
 ### Visualization Used:
 - Horizontal Bar Chart
 
-![Customer Sales](https://github.com/yourusername/yourrepo/blob/main/Screenshots/customer_sales.png)
+![Customer Sales](https://github.com/revanthk58/Sales_Analysis_Assignment/blob/main/Screenshots/Screenshot%202026-05-25%20154230.png)
 
 ---
 
@@ -132,7 +127,7 @@ The dashboard helps businesses understand:
 ### Visualization Used:
 - Multi-Line Chart
 
-![Sub Category Analysis](https://github.com/yourusername/yourrepo/blob/main/Screenshots/subcategory_region.png)
+![Sub Category Analysis](https://github.com/revanthk58/Sales_Analysis_Assignment/blob/main/Screenshots/Screenshot%202026-05-25%20154136.png)
 
 ---
 
@@ -211,6 +206,7 @@ Order_year = YEAR(Orders[Order Date])
 # Repository Structure
 
 ```text
+├── Superstore_sales_Analysis.csv
 ├── Screenshots
 ├── Sales_Analysis.pdf
 ├── README.md
