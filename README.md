@@ -1,12 +1,11 @@
-# Retail Sales Analysis Dashboard 📊
+# Sales Analysis Dashboard 📊
 
 ## Project Overview
-This project is a **Retail Sales Analytics Dashboard** created using **Power BI** to analyze sales performance, customer behavior, regional trends, and profitability using the Superstore dataset.
+This project is a **Sales Analytics Dashboard** created using **Power BI** to analyze sales performance, regional trends, and profitability using the Superstore dataset.
 
 The dashboard helps businesses understand:
 - Sales performance trends
 - Regional profitability
-- Customer purchasing behavior
 - Product category performance
 - Monthly sales growth
 - Profit analysis
